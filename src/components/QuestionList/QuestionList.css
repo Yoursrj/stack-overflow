@@ -1,0 +1,40 @@
+/* QuestionList.css */
+
+.question-list {
+    margin-top: 20px;
+  }
+  
+  .question-ul {
+    /* Bootstrap classes */
+    list-style-type: none;
+    padding: 0;
+  
+    /* Custom class styles */
+    /* Add any custom styles here */
+  }
+  
+  .question-li {
+    /* Bootstrap classes */
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+  
+    /* Custom class styles */
+    /* Add any custom styles here */
+  }
+  
+  .question-li a {
+    /* Bootstrap classes */
+    text-decoration: none;
+    color: #333;
+  
+    /* Custom class styles */
+    /* Add any custom styles here */
+  }
+  
+  .question-li a:hover {
+    /* Bootstrap classes */
+    color: #007bff;
+  }
+  

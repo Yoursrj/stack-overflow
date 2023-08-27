@@ -1,0 +1,13 @@
+/* Sidebar.css */
+
+.sidebar {
+    /* Bootstrap classes */
+    background-color: #dc8451;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  
+    /* Custom class styles */
+    /* Add any custom styles here */
+  }
+  

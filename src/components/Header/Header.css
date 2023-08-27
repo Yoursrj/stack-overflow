@@ -1,0 +1,13 @@
+/* Header.css */
+
+.header {
+    background-color: #dc8451; /* Bootstrap class */
+    color: #fff;              /* Bootstrap class */
+    text-align: center;       /* Bootstrap class */
+    padding: 10px 0;          /* Bootstrap class */
+  
+    /* Custom class styles */
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
